@@ -1,3 +1,25 @@
+ Atividades de negócio
+
+•	 Realizar o cálculo de área e perímetro de um circunferências e retângulos.
+
+Problema/Oportunidade 
+•	Um matemático solicitou um software para o cálculo de área e perímetro, pois por conta da demanda se tornou cansativo realizar os cálculos de forma manual;
+•	 50% do seu tempo é destinado a outras atividades e sobra pouco tempo para os cálculos matemáticos.
+Processos de negócio 
+
+•	Cálculo da área e perímetro
+•	Para o cálculo de área da circunferência é necessário que o matemático insira os valores do (RAIO ^ 2) * o valor de PI, e para o perímetro da circunferência são utilizados os mesmos valores, porém da seguinte forma: 2 * PI * RAIO.
+•	Para o cálculo da área e perímetro do retângulo o matemático deve entrar com os valores de BASE e ALTURA. Para o cálculo da área são utilizados os valores da seguinte forma: BASE * ALTURA, já com o cálculo do perímetro se utiliza fórmula 2.(BASE + ALTURA).
+
+Regras de negócio 
+ 
+•	 Todos os valores inseridos devem ser positivos;
+   
+Stakeholders 
+ 
+•	Matemático
+•	Equipe de desenvolvimento
+
 Vocabulário 
 
 Perímetro: é a medida do contorno de um objeto bidimensional 
