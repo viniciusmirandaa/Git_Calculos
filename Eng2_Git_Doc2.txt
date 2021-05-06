@@ -1,0 +1,101 @@
+Vocabulário 
+
+Perímetro: é a medida do contorno de um objeto bidimensional 
+
+Pi: número pi é uma proporção numérica definida pela relação entre o perímetro de uma circunferência e seu diâmetro 
+
+Raio: é a metade do diâmetro de uma circunferência. Pode ser definido também como a distância do centro a um ponto qualquer da circunferência 
+
+  
+
+Requisitos Funcionais 
+
+ 
+
+RF001 – Efetuar login 
+
+Data da 1a versão: 05/mai/2021 
+
+Prioridade: ALTA 
+
+Permite que um usuário acesse e manipule informações restritas do sistema informando login e senha, possuindo uma autenticação básica. 
+
+  
+
+RF002 – Efetuar logoff 
+
+Data da 1a versão: 05/mai/2021 
+
+Prioridade: ALTA 
+
+Permite que o usuário saia da aplicação perdendo acesso a informações restritas do sistema. 
+
+ 
+
+RF003 – Efetuar cálculos  
+
+Data da 1a versão: 05/mai/2021 
+
+Prioridade: ALTA 
+
+O software deve permitir que o usuário insira os valores necessários para a realização do cálculo, utilizando a classe JOptionPane para ler os valores digitados. 
+
+ 
+
+RF004 – Visualização dos resultados 
+
+Data da 1a versão: 05/mai/2021 
+
+Prioridade: ALTA 
+
+O software deve permitir que o usuário visualize os resultados do cálculo na tela. 
+
+ 
+
+Requisitos não funcionais: 
+
+Usabilidade 
+
+RNF01 – Interface gráfica 
+
+Data da 1a versão: 06/mai/2021 
+
+Prioridade: MÉDIA 
+
+O sistema deve permitir facilidades de uso, tendo uma interface gráfica clara e intuitiva, a fim de que pouco tempo seja necessário para o usuário dominá-la sem a necessidade de um treinamento intensivo prévio, implementando requisitos da especificação WCGA 2. 
+
+  
+
+Confiabilidade 
+
+RNF02 – Autenticação 
+
+Data da 1a versão: 06/mai/2021 
+
+Prioridade: ALTA 
+
+O sistema deve utilizar um sistema de autenticação de usuário através da ferramenta reCAPTCHA V2. 
+
+   
+
+Manutenibilidade 
+
+RNF03 – Manutenção 
+
+Data da 1a versão: 06/mai/2021 
+
+Prioridade: MÉDIA 
+
+O sistema deve ser de fácil manutenção. 
+
+  
+
+Disponibilidade 
+
+RNF04 – Disponibilidade do sistema 
+
+Data da 1a versão: 06/mai/2021 
+
+Prioridade: MÉDIA 
+
+O sistema deve ter disponibilidade 24/7. 
