@@ -1,6 +1,6 @@
 package Eng_Git2.Test;
 
-import Eng2_Git.Classes.Circulo;
+import Eng_Git2.Classes.Circulo;
 
 import javax.swing.*;
 
@@ -11,6 +11,5 @@ public class Main {
         String textoRaio = JOptionPane.showInputDialog("Defina o raio para o cálculo: ");
         double raio = Double.parseDouble(textoRaio);
         Circulo circulo = new Circulo(raio);
-
     }
 }
